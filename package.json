@@ -1,5 +1,5 @@
 {
-  "hompage": "https://yourjhay.github.io/search-free-image",
+  "hompage": "https://yourjhay.github.io/search-free-image/",
   "name": "search-img",
   "version": "0.1.0",
   "private": true,
@@ -36,7 +36,7 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
+  "browserslist": { 
     "production": [
       ">0.2%",
       "not dead",
